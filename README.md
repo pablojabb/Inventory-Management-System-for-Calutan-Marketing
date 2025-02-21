@@ -1,2 +1,3 @@
 # Inventory-Management-System-for-Calutan-Marketing
-my 1st project, A capstone project for grade11 to grade 12 in TVL-ICT programming
+ A capstone project for grade11 to grade 12 in TVL-ICT programming
+ -source code and application program soon to be uploaded-
